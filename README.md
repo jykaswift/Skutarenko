@@ -7,3 +7,5 @@
 | 2 | [Работа с базовыми типами](https://github.com/jykaswift/Skutarenko/tree/master/Lesson%202%20Data%20types) | 
 | 3 | [Кортежи](https://github.com/jykaswift/Skutarenko/tree/master/Lesson%203%20Tuple) | 
 | 4 | [Опционалы](https://github.com/jykaswift/Skutarenko/tree/master/Lesson%204%20Optionals) |
+| 5 | [Базовые операторы](https://github.com/jykaswift/Skutarenko/tree/master/lesson%205%20Basics%20Operators)|
+| 6 | [Строки](https://github.com/jykaswift/Skutarenko/tree/master/lesson%206%20String)|
