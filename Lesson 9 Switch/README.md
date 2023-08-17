@@ -1,5 +1,5 @@
-# Домашка к восьмому уроку
+# Домашка к девятому уроку
 
-![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%208%20Dictionary/Снимок%20экрана%202023-08-17%20в%2023.35.48.png?raw=true)
-![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%208%20Dictionary/Снимок%20экрана%202023-08-17%20в%2023.37.10.png?raw=true)
+![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%209%20Switch/Снимок%20экрана%202023-08-18%20в%2000.54.07.png?raw=true)
+![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%209%20Switch/Снимок%20экрана%202023-08-18%20в%2000.54.22.png?raw=true)
 
