@@ -134,3 +134,5 @@ segment.midpoint
 segment.midpoint = .init(x: 2.0, y: 3.0)
 segment.midpoint.x
 segment.midpoint.y
+
+
