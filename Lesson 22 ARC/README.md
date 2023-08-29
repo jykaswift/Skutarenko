@@ -1,12 +1,12 @@
-# Домашка к 18 уроку
+# Домашка к 22 уроку
 
-![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%2018%20inheritance/Снимок%20экрана%202023-08-27%20в%2022.04.51.png?raw=true)
+![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%2022%20ARC/Снимок%20экрана%202023-08-29%20в%2023.01.50.png?raw=true)
 
-![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%2018%20inheritance/Снимок%20экрана%202023-08-27%20в%2022.05.26.png?raw=true)
+![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%2022%20ARC/Снимок%20экрана%202023-08-29%20в%2023.02.00.png?raw=true)
 
-![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%2018%20inheritance/Снимок%20экрана%202023-08-27%20в%2022.07.04.png?raw=true)
+![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%2022%20ARC/Снимок%20экрана%202023-08-29%20в%2023.02.11.png?raw=true)
 
-![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%2018%20inheritance/Снимок%20экрана%202023-08-27%20в%2022.07.35.png?raw=true)
+![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%2022%20ARC/Снимок%20экрана%202023-08-29%20в%2023.02.22.png?raw=true)
 
-![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%2018%20inheritance/Снимок%20экрана%202023-08-27%20в%2022.09.14.png?raw=true)
+![Screeen](https://github.com/jykaswift/Skutarenko/blob/master/Lesson%2022%20ARC/Снимок%20экрана%202023-08-29%20в%2023.02.44.png?raw=true)
 
